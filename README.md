@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-agent-skills - Enhance AI Agents with Ready Skills
 
-[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
+[![Download Skills](https://img.shields.io/badge/Download-Skills-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/archive/refs/heads/main.zip)
 
 ---
 
@@ -12,17 +12,16 @@ The skills cover a wide range of actions, like managing emails, booking appointm
 
 ---
 
-## 💻 System Requirements
+## 💻 Requirements
 
-To use the skills included in this project, your computer needs to meet the following basics:
+The skills are Markdown instruction files. You need:
 
-- **Operating System:** Windows 10 or later, macOS 10.15 or later, or any recent Linux distribution.
-- **Processor:** A modern Intel or AMD processor (any dual-core or better).
-- **Memory:** At least 4 GB of RAM.
-- **Storage:** Minimum 500 MB of free disk space.
-- **Internet Access:** Required for downloading and for some skills that connect to online services.
+- An AI agent or client that supports reusable instruction files.
+- Permission to copy a skill directory into that agent's skill location.
+- Any external tools or accounts named by the selected skill.
 
-No special software or coding knowledge is required to run the skills. Everything is provided in easy-to-follow formats.
+No executable installer is required. Follow your agent's documentation for its
+exact skill directory and loading process.
 
 ---
 
@@ -30,67 +29,49 @@ No special software or coding knowledge is required to run the skills. Everythin
 
 This section helps you download and start using the skills quickly, even if you are not a tech expert.
 
-### 1. Visit the Download Page
+### 1. Download the Repository
 
-Click this big button below to open the official download page:
+Download the current source archive:
 
-[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
+[![Download Skills](https://img.shields.io/badge/Download-Skills-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/archive/refs/heads/main.zip)
 
-This page holds all the latest versions of the project. You will find files ready to download for different systems.
+You can also clone the repository:
 
-### 2. Download the Right File
+```bash
+git clone https://github.com/h4vzz/awesome-ai-agent-skills.git
+```
 
-On the releases page, look for the file that matches your computer:
+### 2. Choose a Skill
 
-- For Windows, download a file ending in `.exe` or `.zip`.
-- For macOS, look for `.dmg` or `.zip`.
-- For Linux, `https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip` or `.deb` files are common.
+Browse the category directories. Each skill lives in its own directory and
+contains a `SKILL.md` file.
 
-If you are unsure, download the `.zip` file as it works on most systems and contains all the necessary skills.
+### 3. Review the Instructions
 
-### 3. Save the File
+Read the selected `SKILL.md`. Check its required tools, accounts, inputs, and
+limitations before installing it.
 
-Choose a folder on your computer where you want to keep the downloaded file. Use a location easy to remember, like your Desktop or Downloads folder.
+### 4. Install the Skill
 
-### 4. Open the Downloaded File
+Copy the complete skill directory into your agent's skill location. Keep any
+`scripts/`, `references/`, and `assets/` directories beside `SKILL.md`.
 
-- If you downloaded a `.zip` file, double-click it to open and extract its contents.
-- If you downloaded an installer, like `.exe` or `.dmg`, double-click the file and follow the on-screen instructions to install the skills package.
+### 5. Test the Skill
 
-No complex installation steps are needed apart from this.
-
-### 5. Launch the Skills Package
-
-After extracting or installing, open the folder named `awesome-ai-agent-skills` or similar. Inside, you will find files or documentation that show how to use the skills with your AI agent, or how to activate them with simple commands.
-
----
-
-## 📥 Download & Install
-
-You can start using the skills by downloading from this official link:
-
-[Download the latest release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
-
-Follow these steps after download:
-
-- Extract the files if you downloaded a compressed archive.
-- Read the included `README` or `Instructions` files inside the folder.
-- Each skill has a detailed instruction set you can follow.
-- If you use an AI assistant platform, import or load these skills following your AI system’s method.
+Ask the agent for a task that matches the skill description. Confirm that it
+loads the instructions and requests any required inputs.
 
 ---
 
 ## 🛠️ How to Use the Skills
 
-Each skill is ready to use. Here’s how to get started:
+Each skill is an instruction set for an AI agent:
 
-1. Choose the skill you want from the folder or list provided.
-2. Open the instruction file for that skill. It will explain the exact steps your AI agent needs to follow.
-3. Follow the instructions to add the skill to your AI or to run it directly.
-4. Test the skill by giving your AI agent related commands or tasks.
-5. If a skill requires connection to online services (like sending email or making reservations), make sure your computer is connected to the internet.
-
-You do not need to write any code. All steps use simple instructions anyone can follow.
+1. Load the installed skill with your agent.
+2. Ask for a task that matches the skill description.
+3. Provide the inputs requested by the skill.
+4. Review any proposed external actions before approving them.
+5. Verify the result against the skill's output guidance.
 
 ---
 
@@ -109,25 +90,24 @@ You do not need to write any code. All steps use simple instructions anyone can 
 
 If you find issues while downloading or running the skills:
 
-- Make sure you have an active internet connection.
-- Ensure your system meets the minimum requirements.
-- Use the latest version from the official releases page.
-- Extract all files if you downloaded an archive.
-- Refer to any `README` documents inside the download for extra help.
+- Confirm that the complete skill directory was copied.
+- Keep optional resources in their original relative locations.
+- Check the skill's required tools, accounts, and credentials.
+- Validate the YAML frontmatter and read the agent's loading documentation.
 
-For detailed help, visit the issues section in the project repository or contact the maintainer if needed.
+For repository help, read `CONTRIBUTING.md` or contact the maintainer.
 
 ---
 
 ## 📚 Additional Resources
 
-Inside your download package, you will find:
+The repository includes:
 
-- **User guides:** Detailed instructions on how to activate and combine skills.
-- **Examples:** Sample commands and files to test how skills work.
-- **FAQ:** Answers to common questions about installation and usage.
+- **`CONTRIBUTING.md`:** Rules for adding and improving skills.
+- **`SKILL_TEMPLATE.md`:** The required structure for new skills.
+- **`SKILL.md` files:** Instructions, workflows, examples, and edge cases.
 
-You do not need any special tools beyond what your computer already has.
+Tool and account requirements vary by skill.
 
 ---
 
@@ -139,11 +119,12 @@ If you want to suggest new skills or improvements, please follow the project’s
 
 ## 📞 Contact & Support
 
-For support, visit the project's GitHub page at:  
-https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip
+For support, visit the
+[GitHub repository](https://github.com/h4vzz/awesome-ai-agent-skills).
 
-Check the Issues tab to see if your question has already been discussed or to open a new request.
+Issues are disabled. Follow `CONTRIBUTING.md` and open a pull request for
+corrections or new skills.
 
 ---
 
-[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
+[![Download Skills](https://img.shields.io/badge/Download-Skills-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/archive/refs/heads/main.zip)
